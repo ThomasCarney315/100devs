@@ -25,7 +25,11 @@ body {
 
 }
 
-
+button {
+    display: flex;
+    width: 200px;
+    background-color: cornflowerblue;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
